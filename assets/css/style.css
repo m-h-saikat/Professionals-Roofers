@@ -67,13 +67,32 @@ hr {
     font-size:1.1em;
     font-weight: 700;
 }
-.ourServicesHeader ,.ourClientHeader{
+.ourClientHeader{
     font-size:1.2em;
     font-weight: 600; 
+}
+.professionalTeam ,.ourServices{
+    font-size:2.1em;
+}
+.professionalTeam .Team {
+    font-weight: 700;
+
+}
+.ourServices .Services{
+    font-weight: 700;
+
 }
 .clientSaySection{
     font-size:1.3em;
 }
+.clientReview{
+    font-weight: 600; 
+font-size:1.1em;
+}
+
 .h-200{
     min-height: 200px;
+}
+i{
+    font-size:1.2em;
 }
