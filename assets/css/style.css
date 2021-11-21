@@ -1,0 +1,54 @@
+.header-top {
+
+    background: url(../img/top-head-bg.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    color: white;
+
+}
+
+.navbar a {
+    color: black;
+    font-weight: 500;
+}
+
+.company-name {
+    font-size: 1.6em;
+}
+
+.banner {
+
+    background: url(../img/slide-two.jpg) no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+
+
+}
+
+.services {
+    background: url(../img/services-bg.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.footer{
+    background: url(../img/footer-bg.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+.text-orange {
+    color: #FF4500;
+}
+
+.bg-orange {
+    background-color: #FF4500;
+}
+
+hr {
+    color: #123455;
+    border:1px solid gray;
+}
