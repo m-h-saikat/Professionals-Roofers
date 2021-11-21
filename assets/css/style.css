@@ -52,3 +52,28 @@ hr {
     color: #123455;
     border:1px solid gray;
 }
+.company-name{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.header-anotherColorText{
+    font-size: 1.2m;
+    font-weight: 700;
+}
+.company-details{
+    font-size: 1.2em;
+}
+.big-font{
+    font-size:1.1em;
+    font-weight: 700;
+}
+.ourServicesHeader ,.ourClientHeader{
+    font-size:1.2em;
+    font-weight: 600; 
+}
+.clientSaySection{
+    font-size:1.3em;
+}
+.h-200{
+    min-height: 200px;
+}
