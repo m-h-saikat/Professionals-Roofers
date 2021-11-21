@@ -1,98 +1,95 @@
 .header-top {
-
-    background: url(../img/top-head-bg.jpg) no-repeat center center;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-    color: white;
-
+  background: url(../img/top-head-bg.jpg) no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  color: white;
 }
 
 .navbar a {
-    color: black;
-    font-weight: 500;
+  color: black;
+  font-weight: 500;
 }
 
 .company-name {
-    font-size: 1.6em;
+  font-size: 1.6em;
 }
 
 .banner {
-
-    background: url(../img/slide-two.jpg) no-repeat center center;
-    background-size: cover;
-    overflow: hidden;
-
-
+  background: url(../img/slide-two.jpg) no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
 }
 
 .services {
-    background: url(../img/services-bg.jpg) no-repeat center center;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
+  background: url(../img/services-bg.jpg) no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
-.footer{
-    background: url(../img/footer-bg.jpg) no-repeat center center;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
+.footer {
+  background: url(../img/footer-bg.jpg) no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
 
 .text-orange {
-    color: #FF4500;
+  color: #ff4500;
 }
 
 .bg-orange {
-    background-color: #FF4500;
+  background-color: #ff4500;
 }
 
 hr {
-    color: #123455;
-    border:1px solid gray;
+  color: #123455;
+  border: 1px solid gray;
 }
-.company-name{
-    font-size: 1.5em;
-    font-weight: 700;
+.company-name {
+  font-size: 1.5em;
+  font-weight: 700;
 }
-.header-anotherColorText{
-    font-size: 1.2m;
-    font-weight: 700;
+.header-anotherColorText {
+  font-size: 1.2m;
+  font-weight: 700;
 }
-.company-details{
-    font-size: 1.2em;
+.company-details {
+  font-size: 1.2em;
 }
-.big-font{
-    font-size:1.1em;
-    font-weight: 700;
+.big-font {
+  font-size: 1.1em;
+  font-weight: 700;
 }
-.ourClientHeader{
-    font-size:1.2em;
-    font-weight: 600; 
+.ourClientHeader {
+  font-size: 1.2em;
+  font-weight: 600;
 }
-.professionalTeam ,.ourServices{
-    font-size:2.1em;
+.professionalTeam,
+.ourServices {
+  font-size: 2.1em;
 }
 .professionalTeam .Team {
-    font-weight: 700;
-
+  font-weight: 700;
 }
-.ourServices .Services{
-    font-weight: 700;
-
+.ourServices .Services {
+  font-weight: 700;
 }
-.clientSaySection{
-    font-size:1.3em;
+.clientSaySection {
+  font-size: 1.3em;
 }
-.clientReview{
-    font-weight: 600; 
-font-size:1.1em;
+.clientReview {
+  font-weight: 600;
+  font-size: 1.1em;
 }
 
-.h-200{
-    min-height: 200px;
+.h-200 {
+  min-height: 200px;
 }
-i{
-    font-size:1.2em;
+i {
+  font-size: 1.2em;
+}
+.nav-link {
+  color: rgb(82, 66, 66) !important;
 }
